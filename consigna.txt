@@ -1,0 +1,46 @@
+Ejercicio HTML
+
+
+
+Vamos a preparar wafles! Bah, ustedes me enseñarán a prepararlos…
+
+
+El objetivo es
+que pueda preparar wafles el fin de semana, entonces necesito que me digan lo
+siguiente:
+
+
+1.     
+Que
+es lo que voy a preparar, un título digamos.
+
+
+2.     
+Que
+me cuente brevemente en un párrafo todas las bondades de un buen wafle.
+
+
+3.     
+Una
+vez que me tentaron, muéstrenme que ingredientes tengo que comprar.
+
+
+4.     
+¿Hay foto?
+Digo, para estar seguro de lo que compre.
+
+
+5.     
+Y no
+se olviden, ¡el paso a paso es fundamental para que todo salga bien!
+
+
+6.     
+Para
+terminar y no sacarles tiempo, en vez de andar copiando y pegando código, mejor
+compártanme el repo de GitHub así me lo clono y chusmeo sus recetas.
+
+
+Bueno, eso es
+todo, ojo con este detalle que no es menor, solo tiene que haber HTML, nada de
+CSS ni JavaScript
